@@ -4,7 +4,7 @@
 ---------------------------------------------------
 成品状态：
 
-![任务列表](https://raw.githubusercontent.com/JiYouMCC/python-show-me-the-code/0024/0024.png)
+![任务列表](https://raw.githubusercontent.com/JiYouMCC/python-show-me-the-code/master/0024/0024.png)
 
 admin/admin
 - 无限呆蠢的UI请忽略，这个实在是艺术活儿，原来还想把任务DragDrop到状态下和Jire的Kanban一样，没心思折腾html5了
